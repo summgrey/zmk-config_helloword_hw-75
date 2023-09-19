@@ -21,7 +21,7 @@
 		};
 
 		layer_1 {
-			label = "亮度";
+			label = "左右";
 			bindings = <&trans &trans>;
 			sensor-bindings = <&inc_dec_kp LEFT RIGHT>;
 		};
