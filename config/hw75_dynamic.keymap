@@ -23,7 +23,7 @@
 		layer_1 {
 			label = "亮度";
 			bindings = <&trans &trans>;
-			sensor-bindings = <&inc_dec_kp C_BRI_DEC C_BRI_INC>;
+			sensor-bindings = <&inc_dec_kp LEFT RIGHT>;
 		};
 
 		layer_2 {
